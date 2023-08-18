@@ -15,9 +15,14 @@ using System.Fabric;
 namespace IDesign.Engine.Validation.Service
 {
    [ApplicationManifest("IDesign.Microservice.Sales","ValidationEngine")]
-   public class ValidationEngine : ServiceBase, IValidationEngine
+   public class ValidationEngine : ServiceBase, IValidationEngine, Interface.Sales.IValidationEngine
    {
       public ValidationEngine(StatelessServiceContext context) : base(context)
       {}
-   }
+
+        Task Interface.Sales.IValidationEngine.ValidateAsync()
+        {
+            return Task.CompletedTask;
+        }
+    }
 }

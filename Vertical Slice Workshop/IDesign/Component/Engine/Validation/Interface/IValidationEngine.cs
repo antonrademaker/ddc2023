@@ -7,5 +7,17 @@ namespace IDesign.Engine.Validation.Interface
 {
    [ServiceContract]
    public interface IValidationEngine : IService
-   {}
+   {
+    
+    }
+}
+
+namespace IDesign.Engine.Validation.Interface.Sales
+{
+    [ServiceContract]
+    public interface IValidationEngine : IService
+    {
+        [OperationContract]
+        Task ValidateAsync();
+    }
 }
