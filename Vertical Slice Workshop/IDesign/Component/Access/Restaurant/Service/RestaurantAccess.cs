@@ -7,6 +7,7 @@ using MethodModelEx.Microservices;
 using IDesign.Access.Restaurant.Interface;
 using System.Collections;
 using System.Collections.Generic;
+using System;
 
 #if ServiceModelEx_ServiceFabric
 using ServiceModelEx.Fabric;
@@ -22,9 +23,19 @@ namespace IDesign.Access.Restaurant.Service
         public RestaurantAccess(StatelessServiceContext context) : base(context)
         { }
 
-        async Task<IEnumerable<Interface.Restaurant>> IRestaurantAccess.FilterAsync(RestaurantCriteria criteria)
+        async Task<Interface.Restaurant[]> IRestaurantAccess.FilterAsync(RestaurantCriteria criteria)
         {
-            return new List<Interface.Restaurant>();
+            if (criteria.RestaurantIDs != null && criteria.RestaurantIDs.Length > 0)
+            {
+                return new Interface.Restaurant[] { 
+                    new Interface.Restaurant() {
+                    Id = criteria.RestaurantIDs[0],
+                    Name = "Brisket",
+                    Location = new Location()
+                }
+                };
+            }
+            return Array.Empty<Interface.Restaurant>();
         }
         async Task IRestaurantAccess.StoreAsync()
         { }

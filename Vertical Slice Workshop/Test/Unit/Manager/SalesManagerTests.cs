@@ -21,7 +21,7 @@ using IDesign.Access.Customer.Service;
 using IDesign.Engine.Pricing.Interface;
 using IDesign.Engine.Pricing.Service;
 using IDesign.Access.Specials.Service;
-using IDesign.Manager.Sales.Interface;
+using IDesign.Manager.Sales.Interface.Online;
 using IDesign.Manager.Sales.Service;
 
 namespace Test.Unit.Manager
@@ -65,12 +65,12 @@ namespace Test.Unit.Manager
             //var validationEngineMock = new Mock<IValidationEngine>();
             //validationEngineMock.Setup(x=>x.ConfirmRequestAsync(It.IsAny<string>())).Returns<string>(r=>Task.FromResult(r + " ValidationEngineMock.ConfirmRequestAsync"));
 
-            var request = new FindItemRequest("Zurich");
+            var request = new SearchCriteria("Zurich");
 
             Action<ISalesManager> callerMock = (poco) =>
             {
                 //TEST NOTE: Cannot use await in test menhods.
-                poco.FindItemAsync(request).Wait();
+                poco.SearchAsync(request).Wait();
             };
 
             harness.TestServicePoco<ISalesManager>(callerMock, restaurantAccessMock, contextMock);
@@ -84,12 +84,12 @@ namespace Test.Unit.Manager
             var restaurantAccessMock = new Mock<IRestaurantAccess>();
             restaurantAccessMock.Setup(x => x.FilterAsync(It.IsAny<RestaurantCriteria>()));
 
-            var request = new FindItemRequest("Zurich");
+            var request = new SearchCriteria("Zurich");
 
 
             Action<ISalesManager> callerMock = (proxy) =>
             {
-                proxy.FindItemAsync(request).Wait();
+                proxy.SearchAsync(request).Wait();
             };
 
             harness.TestService<ISalesManager>(callerMock, restaurantAccessMock, contextMock);
@@ -99,11 +99,11 @@ namespace Test.Unit.Manager
         public void Test_FindItemAsync_With_NoMocks_As_Poco()
         {
             MyContext contextMock = new MyContext { Value = "Test" };
-            var request = new FindItemRequest("Zurich");
+            var request = new SearchCriteria("Zurich");
 
             Action<ISalesManager> callerMock = (poco) =>
             {
-                poco.FindItemAsync(request).Wait();
+                poco.SearchAsync(request).Wait();
             };
 
             harness.TestServicePoco<ISalesManager>(callerMock, contextMock);
@@ -113,11 +113,11 @@ namespace Test.Unit.Manager
         public void Test_FindItemAsync_With_NoMocks_As_Service()
         {
             MyContext contextMock = new MyContext { Value = "Test" };
-            var request = new FindItemRequest("Zurich");
+            var request = new SearchCriteria("Zurich");
 
             Action<ISalesManager> callerMock = (proxy) =>
             {
-                proxy.FindItemAsync(request).Wait();
+                proxy.SearchAsync(request).Wait();
             };
 
             harness.TestService<ISalesManager>(callerMock, contextMock);

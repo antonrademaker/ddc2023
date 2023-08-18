@@ -7,7 +7,8 @@ using System.Diagnostics;
 using System.Threading.Tasks;
 
 using MethodModelEx.Microservices;
-using IDesign.Manager.Sales.Interface;
+using Online = IDesign.Manager.Sales.Interface.Online;
+
 
 #if ServiceModelEx_ServiceFabric
 using ServiceModelEx.ServiceFabric.Extensions.Client;
@@ -25,10 +26,10 @@ namespace Test.Client.Sales
         {
             //Put your test call here...
 
-            var request = new FindItemRequest("Zurich");
+            var request = new Online.SearchCriteria("Zurich");
 
-            ISalesManager manager = Proxy.ForMicroservice<ISalesManager>();
-            await manager.FindItemAsync(request);
+            Online.ISalesManager manager = Proxy.ForMicroservice<Online.ISalesManager>();
+            await manager.SearchAsync(request);
         }
         public async Task Test()
         {
