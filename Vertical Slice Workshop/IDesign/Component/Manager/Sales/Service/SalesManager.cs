@@ -31,10 +31,13 @@ namespace IDesign.Manager.Sales.Service
             await validationProxy.ValidateAsync(new ValidationCriteria(findItemRequest.Location));
 
             IRestaurantAccess restaurantProxy = Proxy.ForComponent<IRestaurantAccess>(this);
-            await restaurantProxy.FilterAsync();
+
+            var restaurantCriteria = new RestaurantCriteria(findItemRequest.Location);
+
+            await restaurantProxy.FilterAsync(restaurantCriteria);
 
             Engine.Ordering.Interface.Ordering.IOrderingEngine orderingProxy = Proxy.ForComponent<Engine.Ordering.Interface.Ordering.IOrderingEngine>(this);
-            await orderingProxy.MatchAsync();
+            await orderingProxy.FilterAsync();
 
             Engine.Ordering.Interface.Menuing.IMenuingEngine menuingProxy = Proxy.ForComponent<Engine.Ordering.Interface.Menuing.IMenuingEngine>(this);
             await menuingProxy.MatchAsync();

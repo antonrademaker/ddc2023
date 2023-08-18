@@ -11,22 +11,31 @@ namespace IDesign.Access.Restaurant.Interface
     public interface IRestaurantAccess : IService
     {
         [OperationContract]
-        Task<IEnumerable<Restaurant>> FilterAsync();
+        Task<IEnumerable<Restaurant>> FilterAsync(RestaurantCriteria criteria);
         [OperationContract]
         Task StoreAsync();
+    }
+
+    [DataContract]
+    public class RestaurantCriteria
+    {
+        public RestaurantCriteria(string location)
+        {
+            Location = location;
+        }
+        [DataMember]
+        public string Location { get; set; }
     }
 
     [DataContract]
     public class Restaurant
     {
         [DataMember]
+        public string Id { get; set; }
+        [DataMember]
         public string Name { get; set; }
 
         [DataMember]
-        public string Address { get; set; }
-
-        [DataMember]
-        public int Rating { get; set; }
+        public string Location { get; set; }
     }
-
 }

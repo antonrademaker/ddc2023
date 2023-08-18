@@ -22,7 +22,7 @@ namespace IDesign.Access.Restaurant.Service
         public RestaurantAccess(StatelessServiceContext context) : base(context)
         { }
 
-        async Task<IEnumerable<Interface.Restaurant>> IRestaurantAccess.FilterAsync()
+        async Task<IEnumerable<Interface.Restaurant>> IRestaurantAccess.FilterAsync(RestaurantCriteria criteria)
         {
             return new List<Interface.Restaurant>();
         }

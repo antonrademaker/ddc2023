@@ -9,7 +9,7 @@ namespace IDesign.Engine.Ordering.Interface.Ordering
     public interface IOrderingEngine : IService
     {
         [OperationContract]
-        Task MatchAsync();
+        Task FilterAsync();
     }
 }
 
