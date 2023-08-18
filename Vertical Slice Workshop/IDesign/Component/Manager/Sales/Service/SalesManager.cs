@@ -10,6 +10,7 @@ using IDesign.Engine.Validation.Interface.Sales;
 using IDesign.Engine.Ordering.Interface;
 using IDesign.Engine.Pricing.Interface;
 using IDesign.Manager.Sales.Interface;
+using IDesign.Manager.Sales.Interface;
 
 #if ServiceModelEx_ServiceFabric
 using ServiceModelEx.Fabric;
@@ -24,13 +25,22 @@ namespace IDesign.Manager.Sales.Service
     {
         public SalesManager(StatelessServiceContext context) : base(context)
         { }
-        async Task ISalesManager.FindItemAsync()
+        async Task ISalesManager.FindItemAsync(FindItemRequest findItemRequest)
         {
             Engine.Validation.Interface.Sales.IValidationEngine validationProxy = Proxy.ForComponent<Engine.Validation.Interface.Sales.IValidationEngine>(this);
-            await validationProxy.ValidateAsync();
+            await validationProxy.ValidateAsync(new ValidationCriteria(findItemRequest.Location));
 
             IRestaurantAccess restaurantProxy = Proxy.ForComponent<IRestaurantAccess>(this);
             await restaurantProxy.FilterAsync();
+
+            Engine.Ordering.Interface.Ordering.IOrderingEngine orderingProxy = Proxy.ForComponent<Engine.Ordering.Interface.Ordering.IOrderingEngine>(this);
+            await orderingProxy.MatchAsync();
+
+            Engine.Ordering.Interface.Menuing.IMenuingEngine menuingProxy = Proxy.ForComponent<Engine.Ordering.Interface.Menuing.IMenuingEngine>(this);
+            await menuingProxy.MatchAsync();
+
+            Engine.Pricing.Interface.IPricingEngine pricingProxy = Proxy.ForComponent<Engine.Pricing.Interface.IPricingEngine>(this);
+            await pricingProxy.CalculateAsync();
         }
     }
 }

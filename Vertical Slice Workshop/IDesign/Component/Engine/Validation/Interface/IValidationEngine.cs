@@ -1,6 +1,8 @@
-﻿using System.ServiceModel;
+﻿using System.Runtime.Serialization;
+using System.ServiceModel;
 using System.Threading.Tasks;
-
+using IDesign.iFX.Service.Engines;
+using ServiceModelEx;
 using ServiceModelEx.ServiceFabric.Services.Remoting;
 
 namespace IDesign.Engine.Validation.Interface
@@ -18,6 +20,17 @@ namespace IDesign.Engine.Validation.Interface.Sales
     public interface IValidationEngine : IService
     {
         [OperationContract]
-        Task ValidateAsync();
+        Task<Response<bool>> ValidateAsync(ValidationCriteria criteria);
     }
+
+    [DataContract]
+    public class ValidationCriteria
+    {
+        public ValidationCriteria(string location)
+        {
+            Location = location;
+        }
+        [DataMember]
+        public string Location { get; set; }
+    }    
 }
