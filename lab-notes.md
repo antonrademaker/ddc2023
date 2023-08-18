@@ -1,5 +1,8 @@
 # Discussion Notes
 
+Presentation:
+https://studntnu-my.sharepoint.com/:p:/g/personal/haraldtr_ntnu_no/EQF3fN7XKDVOuNLH-SZdpxUB-EFPnsIsF3bMQnRRxgkxGA?e=uaOU01
+
 ## Lab 1 + 2
 Not relevant
 
@@ -15,3 +18,4 @@ Not relevant
 - Propose restaurants
 
 ### 
+
