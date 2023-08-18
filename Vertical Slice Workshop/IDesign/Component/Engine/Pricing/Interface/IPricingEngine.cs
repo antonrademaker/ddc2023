@@ -7,5 +7,8 @@ namespace IDesign.Engine.Pricing.Interface
 {
    [ServiceContract]
    public interface IPricingEngine : IService
-   {}
+   {
+        [OperationContract]
+        Task CalculateAsync();
+    }
 }

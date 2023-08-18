@@ -4,7 +4,8 @@ using ServiceModelEx.ServiceFabric;
 using IDesign.iFX.Service;
 using MethodModelEx.Microservices;
 
-using IDesign.Engine.Ordering.Interface;
+using IDesign.Engine.Ordering.Interface.Ordering;
+using IDesign.Engine.Ordering.Interface.Menuing;
 
 #if ServiceModelEx_ServiceFabric
 using ServiceModelEx.Fabric;
@@ -15,9 +16,20 @@ using System.Fabric;
 namespace IDesign.Engine.Ordering.Service
 {
    [ApplicationManifest("IDesign.Microservice.Sales","OrderingEngine")]
-   public class OrderingEngine : ServiceBase, IOrderingEngine
+   public class OrderingEngine : ServiceBase, Interface.Ordering.IOrderingEngine, IMenuingEngine
    {
       public OrderingEngine(StatelessServiceContext context) : base(context)
       {}
-   }
+
+        Task IOrderingEngine.FilterAsync()
+        {
+            return Task.CompletedTask;
+        }
+
+        Task IMenuingEngine.MatchAsync()
+        {
+            return Task.CompletedTask;
+
+        }
+    }
 }

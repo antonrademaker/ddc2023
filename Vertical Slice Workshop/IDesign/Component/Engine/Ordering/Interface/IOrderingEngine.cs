@@ -3,9 +3,23 @@ using System.Threading.Tasks;
 
 using ServiceModelEx.ServiceFabric.Services.Remoting;
 
-namespace IDesign.Engine.Ordering.Interface
+namespace IDesign.Engine.Ordering.Interface.Ordering
 {
-   [ServiceContract]
-   public interface IOrderingEngine : IService
-   {}
+    [ServiceContract]
+    public interface IOrderingEngine : IService
+    {
+        [OperationContract]
+        Task FilterAsync();
+    }
+}
+
+namespace IDesign.Engine.Ordering.Interface.Menuing
+{
+    [ServiceContract]
+    public interface IMenuingEngine : IService
+    {
+        [OperationContract]
+
+        Task MatchAsync();
+    }
 }

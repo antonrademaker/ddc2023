@@ -33,6 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ServiceModel" />
   </ItemGroup>
   <ItemGroup>
@@ -43,6 +44,10 @@
     <ProjectReference Include="..\..\..\..\..\..\ServiceModelEx - Service Fabric\ServiceModelEx.csproj">
       <Project>{0858c710-af53-4049-b98e-cfe3638d1228}</Project>
       <Name>ServiceModelEx</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\iFX\Service\IDesign.iFX.Service.csproj">
+      <Project>{2466CF16-4E89-4C69-9CAB-1585692ACF11}</Project>
+      <Name>IDesign.iFX.Service</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -26,95 +26,102 @@ using IDesign.Manager.Sales.Service;
 
 namespace Test.Unit.Manager
 {
-   [TestClass]
-   public class SalesManagerTests
-   {
-      UnitTestHarness harness = null;
+    [TestClass]
+    public class SalesManagerTests
+    {
+        UnitTestHarness harness = null;
 
-      [TestInitialize]
-      public void Setup()
-      {
-         harness = new UnitTestHarness();
-         //TODO: Add your components here...
-         harness.Setup(harness.ActorServiceFactory,
-                       typeof(SalesManager),
-                       typeof(ValidationEngine),
-                       typeof(RestaurantAccess),
-                       typeof(OrderingEngine),
-                       typeof(CustomerAccess),
-                       typeof(MenuAccess),
-                       typeof(PricingEngine),
-                       typeof(SpecialsAccess));
-      }
-      [TestCleanup]
-      public void Cleanup()
-      {
-         harness.Cleanup();
-      }
+        [TestInitialize]
+        public void Setup()
+        {
+            harness = new UnitTestHarness();
+            //TODO: Add your components here...
+            harness.Setup(harness.ActorServiceFactory,
+                          typeof(SalesManager),
+                          typeof(ValidationEngine),
+                          typeof(RestaurantAccess),
+                          typeof(OrderingEngine),
+                          typeof(CustomerAccess),
+                          typeof(MenuAccess),
+                          typeof(PricingEngine),
+                          typeof(SpecialsAccess));
+        }
+        [TestCleanup]
+        public void Cleanup()
+        {
+            harness.Cleanup();
+        }
 
-      #region SalesManager.ISalesManager
-      [TestMethod]
-      [TestCategory("Manager.SalesManager.ISalesManager")]
-      public void Test_FindItemAsync_With_RestaurantMock_As_Poco()
-      {
-         MyContext contextMock = new MyContext { Value = "Test" };
+        #region SalesManager.ISalesManager
+        [TestMethod]
+        [TestCategory("Manager.SalesManager.ISalesManager")]
+        public void Test_FindItemAsync_With_RestaurantMock_As_Poco()
+        {
+            MyContext contextMock = new MyContext { Value = "Test" };
 
-         var restaurantAccessMock = new Mock<IRestaurantAccess>();
-         restaurantAccessMock.Setup(x=>x.FilterAsync());
+            var restaurantAccessMock = new Mock<IRestaurantAccess>();
+            restaurantAccessMock.Setup(x => x.FilterAsync());
 
-         //var validationEngineMock = new Mock<IValidationEngine>();
-         //validationEngineMock.Setup(x=>x.ConfirmRequestAsync(It.IsAny<string>())).Returns<string>(r=>Task.FromResult(r + " ValidationEngineMock.ConfirmRequestAsync"));
+            //var validationEngineMock = new Mock<IValidationEngine>();
+            //validationEngineMock.Setup(x=>x.ConfirmRequestAsync(It.IsAny<string>())).Returns<string>(r=>Task.FromResult(r + " ValidationEngineMock.ConfirmRequestAsync"));
 
-         Action<ISalesManager> callerMock = (poco) =>
-         {
-            //TEST NOTE: Cannot use await in test menhods.
-            poco.FindItemAsync().Wait();
-         };
+            var request = new FindItemRequest("Zurich");
 
-         harness.TestServicePoco<ISalesManager>(callerMock,restaurantAccessMock,contextMock);
-      }
-      [TestMethod]
-      [TestCategory("Manager.SalesManager.ISalesManager")]
-      public void Test_FindItemAsync_With_RestaurantMock_As_Service()
-      {
-         MyContext contextMock = new MyContext { Value = "Test" };
+            Action<ISalesManager> callerMock = (poco) =>
+            {
+                //TEST NOTE: Cannot use await in test menhods.
+                poco.FindItemAsync(request).Wait();
+            };
 
-         var restaurantAccessMock = new Mock<IRestaurantAccess>();
-         restaurantAccessMock.Setup(x=>x.FilterAsync());
+            harness.TestServicePoco<ISalesManager>(callerMock, restaurantAccessMock, contextMock);
+        }
+        [TestMethod]
+        [TestCategory("Manager.SalesManager.ISalesManager")]
+        public void Test_FindItemAsync_With_RestaurantMock_As_Service()
+        {
+            MyContext contextMock = new MyContext { Value = "Test" };
 
-         Action<ISalesManager> callerMock = (proxy) =>
-         {
-            proxy.FindItemAsync().Wait();
-         };
+            var restaurantAccessMock = new Mock<IRestaurantAccess>();
+            restaurantAccessMock.Setup(x => x.FilterAsync());
 
-         harness.TestService<ISalesManager>(callerMock,restaurantAccessMock,contextMock);
-      }
-      [TestMethod]
-      [TestCategory("Manager.SalesManager.ISalesManager")]
-      public void Test_FindItemAsync_With_NoMocks_As_Poco()
-      {
-         MyContext contextMock = new MyContext { Value = "Test" };
+            var request = new FindItemRequest("Zurich");
 
-         Action<ISalesManager> callerMock = (poco) =>
-         {
-            poco.FindItemAsync().Wait();
-         };
 
-         harness.TestServicePoco<ISalesManager>(callerMock,contextMock);
-      }
-      [TestMethod]
-      [TestCategory("Manager.SalesManager.ISalesManager")]
-      public void Test_FindItemAsync_With_NoMocks_As_Service()
-      {
-         MyContext contextMock = new MyContext { Value = "Test" };
+            Action<ISalesManager> callerMock = (proxy) =>
+            {
+                proxy.FindItemAsync(request).Wait();
+            };
 
-         Action<ISalesManager> callerMock = (proxy) =>
-         {
-            proxy.FindItemAsync().Wait();
-         };
+            harness.TestService<ISalesManager>(callerMock, restaurantAccessMock, contextMock);
+        }
+        [TestMethod]
+        [TestCategory("Manager.SalesManager.ISalesManager")]
+        public void Test_FindItemAsync_With_NoMocks_As_Poco()
+        {
+            MyContext contextMock = new MyContext { Value = "Test" };
+            var request = new FindItemRequest("Zurich");
 
-         harness.TestService<ISalesManager>(callerMock,contextMock);
-      }
-      #endregion
-   }
+            Action<ISalesManager> callerMock = (poco) =>
+            {
+                poco.FindItemAsync(request).Wait();
+            };
+
+            harness.TestServicePoco<ISalesManager>(callerMock, contextMock);
+        }
+        [TestMethod]
+        [TestCategory("Manager.SalesManager.ISalesManager")]
+        public void Test_FindItemAsync_With_NoMocks_As_Service()
+        {
+            MyContext contextMock = new MyContext { Value = "Test" };
+            var request = new FindItemRequest("Zurich");
+
+            Action<ISalesManager> callerMock = (proxy) =>
+            {
+                proxy.FindItemAsync(request).Wait();
+            };
+
+            harness.TestService<ISalesManager>(callerMock, contextMock);
+        }
+        #endregion
+    }
 }

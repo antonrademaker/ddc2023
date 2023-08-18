@@ -14,10 +14,15 @@ using System.Fabric;
 
 namespace IDesign.Engine.Pricing.Service
 {
-   [ApplicationManifest("IDesign.Microservice.Sales","PricingEngine")]
-   public class PricingEngine : ServiceBase, IPricingEngine
-   {
-      public PricingEngine(StatelessServiceContext context) : base(context)
-      {}
-   }
+    [ApplicationManifest("IDesign.Microservice.Sales", "PricingEngine")]
+    public class PricingEngine : ServiceBase, IPricingEngine
+    {
+        public PricingEngine(StatelessServiceContext context) : base(context)
+        { }
+
+        Task IPricingEngine.CalculateAsync()
+        {
+            return Task.CompletedTask;
+        }
+    }
 }

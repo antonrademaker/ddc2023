@@ -19,26 +19,29 @@ using ServiceFabricEx.Services;
 
 namespace Test.Client.Sales
 {
-   public class Client
-   {
-      async Task Test_ISalesManager_FindItemAsync()
-      {
-         //Put your test call here...
-         ISalesManager manager = Proxy.ForMicroservice<ISalesManager>();
-         await manager.FindItemAsync();
-      }
-      public async Task Test()
-      {
-         try
-         {
-            Console.WriteLine("Test Started...");
-            await Test_ISalesManager_FindItemAsync();
-            Console.WriteLine("Test Finished...");
-         }
-         catch(Exception ex)
-         {
-            Console.WriteLine("Test Exception: " + ex.InnerException != null ? ex.Message : ex.InnerException.Message);
-         }
-      }
-   }
+    public class Client
+    {
+        async Task Test_ISalesManager_FindItemAsync()
+        {
+            //Put your test call here...
+
+            var request = new FindItemRequest("Zurich");
+
+            ISalesManager manager = Proxy.ForMicroservice<ISalesManager>();
+            await manager.FindItemAsync(request);
+        }
+        public async Task Test()
+        {
+            try
+            {
+                Console.WriteLine("Test Started...");
+                await Test_ISalesManager_FindItemAsync();
+                Console.WriteLine("Test Finished...");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Test Exception: " + ex.InnerException != null ? ex.Message : ex.InnerException.Message);
+            }
+        }
+    }
 }
