@@ -21,7 +21,7 @@ namespace IDesign.Engine.Ordering.Service
       public OrderingEngine(StatelessServiceContext context) : base(context)
       {}
 
-        Task IOrderingEngine.FilterAsync()
+        Task IOrderingEngine.MatchAsync()
         {
             return Task.CompletedTask;
         }

@@ -10,7 +10,7 @@ namespace IDesign.Manager.Sales.Interface
    public interface ISalesManager : IService
    {
       [OperationContract]
-      Task FindItemAsync(FindItemRequest request);
+      Task FindItemAsync(FindItemRequest findItemRequest);
    }
     [DataContract]
     public class FindItemRequest

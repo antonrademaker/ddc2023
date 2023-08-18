@@ -27,16 +27,15 @@ namespace IDesign.Manager.Sales.Service
         async Task ISalesManager.FindItemAsync(FindItemRequest findItemRequest)
         {
             Engine.Validation.Interface.Sales.IValidationEngine validationProxy = Proxy.ForComponent<Engine.Validation.Interface.Sales.IValidationEngine>(this);
-            await validationProxy.ValidateAsync(new ValidationCriteria(findItemRequest.Location));
+            var validationResult = await validationProxy.ValidateAsync(new ValidationCriteria(findItemRequest.Location));
 
             IRestaurantAccess restaurantProxy = Proxy.ForComponent<IRestaurantAccess>(this);
 
             var restaurantCriteria = new RestaurantCriteria(findItemRequest.Location);
-
-            await restaurantProxy.FilterAsync(restaurantCriteria);
+            var restaurants = await restaurantProxy.FilterAsync(restaurantCriteria);
 
             Engine.Ordering.Interface.Ordering.IOrderingEngine orderingProxy = Proxy.ForComponent<Engine.Ordering.Interface.Ordering.IOrderingEngine>(this);
-            await orderingProxy.FilterAsync();
+            await orderingProxy.MatchAsync();
 
             Engine.Ordering.Interface.Menuing.IMenuingEngine menuingProxy = Proxy.ForComponent<Engine.Ordering.Interface.Menuing.IMenuingEngine>(this);
             await menuingProxy.MatchAsync();
