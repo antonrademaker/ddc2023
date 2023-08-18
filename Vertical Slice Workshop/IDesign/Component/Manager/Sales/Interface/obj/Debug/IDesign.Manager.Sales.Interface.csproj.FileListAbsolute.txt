@@ -1,0 +1,72 @@
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\IDesign.Manager.Sales.Interface.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\IDesign.Manager.Sales.Interface.pdb
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\ServiceModelEx.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\Moq.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\Castle.Core.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\netstandard.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\ServiceModelEx.pdb
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\ServiceModelEx.dll.config
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\Moq.xml
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\Castle.Core.xml
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\obj\Debug\IDesign.Manager.Sales.Interface.csprojAssemblyReference.cache
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\obj\Debug\IDesign.Manager.Sales.Interface.csproj.CoreCompileInputs.cache
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\obj\Debug\IDesign.Manager.Sales.Interface.csproj.CopyComplete
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\obj\Debug\IDesign.Manager.Sales.Interface.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Interface\obj\Debug\IDesign.Manager.Sales.Interface.pdb
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\IDesign.Manager.Sales.Interface.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\IDesign.Manager.Sales.Interface.pdb
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\ServiceModelEx.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\Moq.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\Castle.Core.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\ServiceModelEx.pdb
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\ServiceModelEx.dll.config
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\Moq.xml
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\Castle.Core.xml
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.csproj.CoreCompileInputs.cache
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.csproj.CopyComplete
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\IDesign.Manager.Sales.Interface.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\IDesign.Manager.Sales.Interface.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\ServiceModelEx.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\Moq.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\Castle.Core.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\ServiceModelEx.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\ServiceModelEx.dll.config
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\Moq.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\Castle.Core.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.csproj.AssemblyReference.cache
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.csproj.CoreCompileInputs.cache
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.csproj.CopyComplete
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\IDesign.Manager.Sales.Interface.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\IDesign.Manager.Sales.Interface.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\ServiceModelEx.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\Moq.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\Castle.Core.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\ServiceModelEx.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\ServiceModelEx.dll.config
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\Moq.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\Castle.Core.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.csproj.AssemblyReference.cache
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.csproj.CoreCompileInputs.cache
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.csproj.CopyComplete
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Manager\Sales\Interface\obj\Debug\IDesign.Manager.Sales.Interface.pdb

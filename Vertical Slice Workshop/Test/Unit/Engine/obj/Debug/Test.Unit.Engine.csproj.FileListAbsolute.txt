@@ -1,0 +1,40 @@
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Test.Unit.Engine.dll.config
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Test.Unit.Engine.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Test.Unit.Engine.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Castle.Core.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Moq.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\ServiceModelEx.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\ServiceModelEx.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\ServiceModelEx.dll.config
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Castle.Core.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Moq.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\obj\Debug\Test.Unit.Engine.csproj.AssemblyReference.cache
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\obj\Debug\Test.Unit.Engine.csproj.CoreCompileInputs.cache
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\obj\Debug\Test.Unit.Engine.csproj.CopyComplete
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\obj\Debug\Test.Unit.Engine.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\Test\Unit\Engine\obj\Debug\Test.Unit.Engine.pdb
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Test.Unit.Engine.dll.config
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Test.Unit.Engine.dll
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Test.Unit.Engine.pdb
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Castle.Core.dll
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Moq.dll
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\ServiceModelEx.dll
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\ServiceModelEx.pdb
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\ServiceModelEx.dll.config
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Castle.Core.xml
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\Moq.xml
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\obj\Debug\Test.Unit.Engine.csproj.AssemblyReference.cache
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\obj\Debug\Test.Unit.Engine.csproj.CoreCompileInputs.cache
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\obj\Debug\Test.Unit.Engine.csproj.CopyComplete
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\obj\Debug\Test.Unit.Engine.dll
+C:\DDC\Vertical Slice Workshop\Test\Unit\Engine\obj\Debug\Test.Unit.Engine.pdb

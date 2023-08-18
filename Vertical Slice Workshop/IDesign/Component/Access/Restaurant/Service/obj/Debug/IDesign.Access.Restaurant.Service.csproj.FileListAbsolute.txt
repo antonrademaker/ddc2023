@@ -1,0 +1,75 @@
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Service.dll.config
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Service.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Service.pdb
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\IDesign.iFX.Service.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\MethodModelEx.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\ServiceModelEx.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\Moq.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\Castle.Core.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\MethodModelEx.pdb
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\ServiceModelEx.pdb
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\ServiceModelEx.dll.config
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\IDesign.iFX.Service.pdb
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\Moq.xml
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\Castle.Core.xml
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.csprojAssemblyReference.cache
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.csproj.CoreCompileInputs.cache
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.csproj.CopyComplete
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.pdb
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Interface.dll
+C:\Temp\Class\DDC\Vertical Slice Workshop\IDesign\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Interface.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Service.dll.config
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Service.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Service.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Interface.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.iFX.Service.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\MethodModelEx.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\ServiceModelEx.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\Moq.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\Castle.Core.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\MethodModelEx.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\ServiceModelEx.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\ServiceModelEx.dll.config
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.iFX.Service.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Interface.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\Moq.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\Castle.Core.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.csproj.AssemblyReference.cache
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.csproj.CoreCompileInputs.cache
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.csproj.CopyComplete
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Service.dll.config
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Service.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Service.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Interface.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.iFX.Service.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\MethodModelEx.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\ServiceModelEx.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\Moq.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\Castle.Core.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\MethodModelEx.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\ServiceModelEx.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\ServiceModelEx.dll.config
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.iFX.Service.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\IDesign.Access.Restaurant.Interface.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\Moq.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\Castle.Core.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.csproj.AssemblyReference.cache
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.csproj.CoreCompileInputs.cache
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.csproj.CopyComplete
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Restaurant\Service\obj\Debug\IDesign.Access.Restaurant.Service.pdb

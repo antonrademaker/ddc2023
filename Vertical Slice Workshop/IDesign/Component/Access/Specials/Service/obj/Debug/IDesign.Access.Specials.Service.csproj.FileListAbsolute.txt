@@ -1,0 +1,50 @@
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.Access.Specials.Service.dll.config
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.Access.Specials.Service.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.Access.Specials.Service.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.Access.Specials.Interface.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.iFX.Service.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\MethodModelEx.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\ServiceModelEx.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\Moq.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\Castle.Core.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\MethodModelEx.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\ServiceModelEx.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\ServiceModelEx.dll.config
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.iFX.Service.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.Access.Specials.Interface.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\Moq.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\Castle.Core.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\obj\Debug\IDesign.Access.Specials.Service.csproj.AssemblyReference.cache
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\obj\Debug\IDesign.Access.Specials.Service.csproj.CoreCompileInputs.cache
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\obj\Debug\IDesign.Access.Specials.Service.csproj.CopyComplete
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\obj\Debug\IDesign.Access.Specials.Service.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\obj\Debug\IDesign.Access.Specials.Service.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.Access.Specials.Service.dll.config
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.Access.Specials.Service.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.Access.Specials.Service.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.Access.Specials.Interface.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.iFX.Service.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\MethodModelEx.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\ServiceModelEx.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\Moq.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\Castle.Core.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\MethodModelEx.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\ServiceModelEx.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\ServiceModelEx.dll.config
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.iFX.Service.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\IDesign.Access.Specials.Interface.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\Moq.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\Castle.Core.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\obj\Debug\IDesign.Access.Specials.Service.csproj.AssemblyReference.cache
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\obj\Debug\IDesign.Access.Specials.Service.csproj.CoreCompileInputs.cache
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\obj\Debug\IDesign.Access.Specials.Service.csproj.CopyComplete
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\obj\Debug\IDesign.Access.Specials.Service.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Specials\Service\obj\Debug\IDesign.Access.Specials.Service.pdb

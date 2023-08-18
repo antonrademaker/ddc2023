@@ -1,0 +1,89 @@
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Test.Unit.Content.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Test.Unit.Content.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Castle.Core.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.Module.Interface.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.Module.Service.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.User.Interface.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.User.Service.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Accessor.User.Interface.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Accessor.User.Service.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Common.Contract.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Transform.Interface.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Transform.Service.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Validation.Interface.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Validation.Service.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Manager.Content.Interface.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Manager.Content.Service.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Moq.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\ServiceModelEx.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\MethodModelEx.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\ServiceModelEx.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Common.Contract.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Accessor.User.Interface.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Accessor.User.Service.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.Module.Interface.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.Module.Service.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.User.Interface.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.User.Service.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Transform.Interface.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Transform.Service.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Validation.Interface.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Validation.Service.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Manager.Content.Interface.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Manager.Content.Service.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Castle.Core.xml
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Moq.xml
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\MethodModelEx.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\obj\Debug\Test.Unit.Content.dll
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\obj\Debug\Test.Unit.Content.pdb
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\ServiceModelEx.dll.config
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Manager.Content.Service.dll.config
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\obj\Debug\Test.Unit.Content.csprojAssemblyReference.cache
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\obj\Debug\Test.Unit.Content.csproj.CoreCompileInputs.cache
+C:\Temp\SME.SF Test - Site\Services\The Method\Microservice\ServiceModelEx.ServiceFabric\Test\Unit\Content\obj\Debug\Test.Unit.Content.csproj.CopyComplete
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Test.Unit.Content.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Test.Unit.Content.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Castle.Core.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.Module.Interface.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.Module.Service.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.User.Interface.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.User.Service.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Accessor.User.Interface.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Accessor.User.Service.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Common.Contract.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Transform.Interface.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Transform.Service.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Validation.Interface.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Validation.Service.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Manager.Content.Interface.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Manager.Content.Service.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Moq.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\ServiceModelEx.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\MethodModelEx.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\ServiceModelEx.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\ServiceModelEx.dll.config
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Common.Contract.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Accessor.User.Interface.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Accessor.User.Service.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.Module.Interface.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.Module.Service.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.User.Interface.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Access.User.Service.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Transform.Interface.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Transform.Service.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Validation.Interface.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Engine.Validation.Service.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Manager.Content.Interface.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Manager.Content.Service.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Company.Manager.Content.Service.dll.config
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Castle.Core.xml
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Moq.xml
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\MethodModelEx.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\obj\Debug\Test.Unit.Content.csprojAssemblyReference.cache
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\obj\Debug\Test.Unit.Content.csproj.CoreCompileInputs.cache
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\obj\Debug\Test.Unit.Content.csproj.CopyComplete
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\obj\Debug\Test.Unit.Content.dll
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\obj\Debug\Test.Unit.Content.pdb
+C:\Temp\Demo Test\Services\The Method\Microservice - SDK 3.3\ServiceModelEx.ServiceFabric\Test\Unit\Content\bin\Debug\Test.Unit.Content.dll.config

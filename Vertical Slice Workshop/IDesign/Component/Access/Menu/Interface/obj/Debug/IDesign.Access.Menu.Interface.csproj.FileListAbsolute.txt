@@ -1,0 +1,36 @@
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\IDesign.Access.Menu.Interface.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\IDesign.Access.Menu.Interface.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\ServiceModelEx.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\Moq.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\Castle.Core.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\ServiceModelEx.pdb
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\ServiceModelEx.dll.config
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\Moq.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\Castle.Core.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\obj\Debug\IDesign.Access.Menu.Interface.csproj.AssemblyReference.cache
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\obj\Debug\IDesign.Access.Menu.Interface.csproj.CoreCompileInputs.cache
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\obj\Debug\IDesign.Access.Menu.Interface.csproj.CopyComplete
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\obj\Debug\IDesign.Access.Menu.Interface.dll
+C:\repos\idesign\2023 detailed design\Code\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\obj\Debug\IDesign.Access.Menu.Interface.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\IDesign.Access.Menu.Interface.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\IDesign.Access.Menu.Interface.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\ServiceModelEx.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\Moq.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\Castle.Core.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\ServiceModelEx.pdb
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\ServiceModelEx.dll.config
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\Moq.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\Castle.Core.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\obj\Debug\IDesign.Access.Menu.Interface.csproj.AssemblyReference.cache
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\obj\Debug\IDesign.Access.Menu.Interface.csproj.CoreCompileInputs.cache
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\obj\Debug\IDesign.Access.Menu.Interface.csproj.CopyComplete
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\obj\Debug\IDesign.Access.Menu.Interface.dll
+C:\DDC\Vertical Slice Workshop\IDesign\Component\Access\Menu\Interface\obj\Debug\IDesign.Access.Menu.Interface.pdb
