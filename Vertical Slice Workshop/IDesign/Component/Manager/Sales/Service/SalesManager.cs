@@ -10,7 +10,6 @@ using IDesign.Engine.Validation.Interface.Sales;
 using IDesign.Engine.Ordering.Interface;
 using IDesign.Engine.Pricing.Interface;
 using IDesign.Manager.Sales.Interface;
-using IDesign.Manager.Sales.Interface;
 
 #if ServiceModelEx_ServiceFabric
 using ServiceModelEx.Fabric;
