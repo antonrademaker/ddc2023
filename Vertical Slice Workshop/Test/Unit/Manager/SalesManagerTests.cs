@@ -60,7 +60,7 @@ namespace Test.Unit.Manager
             MyContext contextMock = new MyContext { Value = "Test" };
 
             var restaurantAccessMock = new Mock<IRestaurantAccess>();
-            restaurantAccessMock.Setup(x => x.FilterAsync());
+            restaurantAccessMock.Setup(x => x.FilterAsync(It.IsAny<RestaurantCriteria>()));
 
             //var validationEngineMock = new Mock<IValidationEngine>();
             //validationEngineMock.Setup(x=>x.ConfirmRequestAsync(It.IsAny<string>())).Returns<string>(r=>Task.FromResult(r + " ValidationEngineMock.ConfirmRequestAsync"));
@@ -82,7 +82,7 @@ namespace Test.Unit.Manager
             MyContext contextMock = new MyContext { Value = "Test" };
 
             var restaurantAccessMock = new Mock<IRestaurantAccess>();
-            restaurantAccessMock.Setup(x => x.FilterAsync());
+            restaurantAccessMock.Setup(x => x.FilterAsync(It.IsAny<RestaurantCriteria>()));
 
             var request = new FindItemRequest("Zurich");
 
