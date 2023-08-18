@@ -5,10 +5,10 @@ using ServiceModelEx.ServiceFabric.Services.Remoting;
 
 namespace IDesign.Engine.Validation.Interface
 {
-   [ServiceContract]
-   public interface IValidationEngine : IService
-   {
-    
+   // [ServiceContract]
+    public interface IValidationEngine : IService
+    {
+
     }
 }
 
